@@ -96,7 +96,7 @@ source(here("Functions","borderlines.R" ))
 
 # Introduction
 
-@fornero2011effect
+@fornero2011effect 
 
 # Data and methodology
 
@@ -105,7 +105,7 @@ source(here("Functions","borderlines.R" ))
 # Conclusion
 
 \newpage 
-# References 
+# References {.unnumbered}
 ::: {#refs}
 :::
 
@@ -122,3 +122,5 @@ source(here("Functions","borderlines.R" ))
 \newpage
 
 # Appendix
+
+## Data
