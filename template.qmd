@@ -96,6 +96,8 @@ source(here("Functions","borderlines.R" ))
 
 # Introduction
 
+@fornero2011effect
+
 # Data and methodology
 
 # Results
