@@ -132,6 +132,8 @@ source(here("Functions","borderlines.R" ))
 
 ```{r}
 #| label: latex_version
+#| warning: FALSE
+#| message: FALSE
 
 # Packages -----------------------------------------------------------
 library(here)
